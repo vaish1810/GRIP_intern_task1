@@ -1,5 +1,5 @@
 
-This repository contains the task1 of a "DataScience & Business Analyst Internship" by Team #GRIP@THE SPARKS FOUNDATION.
+This repository contains the simple implementation of Supervised Ml algorithm
 
 The task was to "predict the percentage of students on the basis of number of study hours",using "SUPERVISED MACHINE LEARNING".
 
