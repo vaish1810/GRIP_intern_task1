@@ -1,4 +1,4 @@
-# GRIP_intern_task1
+
 This repository contains the task1 of a "DataScience & Business Analyst Internship" by Team #GRIP@THE SPARKS FOUNDATION.
 
 The task was to "predict the percentage of students on the basis of number of study hours",using "SUPERVISED MACHINE LEARNING".
